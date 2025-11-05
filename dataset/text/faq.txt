@@ -1,0 +1,2 @@
+Q: How do I upload a file?
+A: Use the /upload endpoint or the upload form on the homepage.
